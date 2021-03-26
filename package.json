@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/igorRomulo/StudyNodeTDD/issues"
   },
-  "homepage": "https://github.com/igorRomulo/StudyNodeTDD#readme"
+  "homepage": "https://github.com/igorRomulo/StudyNodeTDD#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.1.0"
+  }
 }
