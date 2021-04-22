@@ -11,6 +11,6 @@ export class SignUpController {
       }
     }
 
-    return null
+    return undefined
   }
 }
