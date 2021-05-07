@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "allowJs": true,
     "strict": false,
-    "strictNullChecks": true,
+    "strictNullChecks": false,
     "strictFunctionTypes": false
   }
 }
